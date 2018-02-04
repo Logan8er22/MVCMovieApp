@@ -1,0 +1,10 @@
+E:\School\2018 Spring\CIDM4390\Code\MvcMovie\bin\Debug\netcoreapp2.0\MvcMovie.deps.json
+E:\School\2018 Spring\CIDM4390\Code\MvcMovie\bin\Debug\netcoreapp2.0\MvcMovie.runtimeconfig.json
+E:\School\2018 Spring\CIDM4390\Code\MvcMovie\bin\Debug\netcoreapp2.0\MvcMovie.runtimeconfig.dev.json
+E:\School\2018 Spring\CIDM4390\Code\MvcMovie\bin\Debug\netcoreapp2.0\MvcMovie.dll
+E:\School\2018 Spring\CIDM4390\Code\MvcMovie\bin\Debug\netcoreapp2.0\MvcMovie.pdb
+E:\School\2018 Spring\CIDM4390\Code\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.csproj.CoreCompileInputs.cache
+E:\School\2018 Spring\CIDM4390\Code\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.AssemblyInfoInputs.cache
+E:\School\2018 Spring\CIDM4390\Code\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.AssemblyInfo.cs
+E:\School\2018 Spring\CIDM4390\Code\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.dll
+E:\School\2018 Spring\CIDM4390\Code\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.pdb
